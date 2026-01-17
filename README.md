@@ -1,16 +1,14 @@
-## Hi there 👋
+### About Me
 
-<!--
-**santhosh-ing/santhosh-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical and Embedded Systems Engineer working in the automotive domain. I am curious by nature and motivated to build a strong foundational understanding of Embedded Systems as a base for the Physical AI world.
 
-Here are some ideas to get you started:
+I believe Embedded Systems play a key role in connecting software intelligence with the physical world. My focus is on understanding systems deeply, from hardware interfaces and low-level software to system-level behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I strongly believe in continuous learning and open collaboration with like-minded people. I prefer learning by building, experimenting, and sharing knowledge openly.
+
+Currently, I am exploring Embedded Systems, Generative AI applications, and Physical AI topics, with the goal of applying these concepts to real-world engineering problems.
+
+I use GitHub to document my learning, share experiments, and grow step by step.
+
+
+
